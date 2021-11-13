@@ -1,2 +1,7 @@
 # systemadblocker
-Blocks the ads on all the system
+Blocks the ads on all the system with a custom DNS
+To do :
+- Add Linux support
+- Add Host file edit method
+
+To use it, you just need to start the windows bath file, and u're good!
