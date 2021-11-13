@@ -69,7 +69,7 @@ if system == "Windows":
     WindowsTestPing()
     
 if system == "Linux":
-    print ("Linux is not yet supported but it will be soon"
+    print ("Linux is not yet supported but it will be soon")
     #def LinuxWifi():
 
     #def LinuxEthernet():
@@ -81,16 +81,4 @@ if system == "Linux":
     #def LinuxTestPing():
 
 if system == "Darwin":
-    print ("The script doesn't support macOS, go buy a real pc :)"
-
-
-        
-
-
-
-
-
-       
-
-
-
+    print ("The script doesn't support macOS, go buy a real pc :)")
