@@ -69,7 +69,7 @@ if system == "Windows":
     WindowsTestPing()
     
 if system == "Linux":
-    print ("Linux is not yet supported but it will be soon")
+    print ("Linux is not yet supported but it will be someday")
     #def LinuxWifi():
 
     #def LinuxEthernet():
